@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on _JavaScript_
 - 🌱 I’m currently learning _Node JS, React JS_
 - 🤔 I’m looking for help with _anything related to JS_
-- 😄 Pronouns: _He/Him_
 - ⚡ Fun fact: _Camera Shy, I love playing video games and watching football_
 
 
