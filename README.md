@@ -29,14 +29,18 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 </p>
-
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbalakrishnan&show_icons=true&locale=en&layout=compact" alt="vishalbalakrishnan" /></p>
-<br />
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbalakrishnan&show_icons=true&locale=en" alt="vishalbalakrishnan" /></p>
-<br />
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbalakrishnan&" alt="vishalbalakrishnan" /></p>
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalbalakrishnan&show_icons=true&locale=en&layout=compact" alt="vishalbalakrishnan" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalbalakrishnan&show_icons=true&locale=en" alt="vishalbalakrishnan" />
+</details>
+<br />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
