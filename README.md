@@ -8,6 +8,12 @@
 - ⚡ Fun fact: _Camera Shy, I love playing video games and watching football_
 
 
+### Spotify Playing 🎧
+
+<!-- [<img src="https://spotify-now-playing.vishalbalakrishnan.vercel.app/api/spotify" width="350" />](https://open.spotify.com/) -->
+
+[![Spotify](https://spotify-now-playing.vishalbalakrishnan.vercel.app/api/spotify)](https://open.spotify.com/)
+
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/vishal_bala98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishal_bala98" height="30" width="40" /></a>
@@ -41,6 +47,7 @@
 <br />
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#105](https://github.com/yellowmessenger/demos/pull/105) in [yellowmessenger/demos](https://github.com/yellowmessenger/demos)
 2. 🎉 Merged PR [#2](https://github.com/vishalbalakrishnan/demos/pull/2) in [vishalbalakrishnan/demos](https://github.com/vishalbalakrishnan/demos)
@@ -48,4 +55,5 @@
 4. 🎉 Merged PR [#1](https://github.com/vishalbalakrishnan/demos/pull/1) in [vishalbalakrishnan/demos](https://github.com/vishalbalakrishnan/demos)
 5. 💪 Opened PR [#1](https://github.com/vishalbalakrishnan/demos/pull/1) in [vishalbalakrishnan/demos](https://github.com/vishalbalakrishnan/demos)
 <!--END_SECTION:activity-->
+
 </details>
