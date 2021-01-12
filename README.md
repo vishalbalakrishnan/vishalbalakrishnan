@@ -26,7 +26,7 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://simpleicons.org/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://simpleicons.org/icons/html5.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://simpleicons.org/icons/python.svg" alt="python" width="40" height="40"/> </a>
