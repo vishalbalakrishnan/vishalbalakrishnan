@@ -16,7 +16,7 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://twitter.com/vishal_bala98" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" alt="vishal_bala98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-balakrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal-balakrishnan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-balakrishnan" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611930826~hmac=ea03ee4362491ec3b2c6c3a553444f05" alt="vishal-balakrishnan" height="30" width="40" /></a>
 <a href="https://fb.com/vishal.balakrishnan07" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611679741~hmac=e2b07b09d56f25e1fe97e4b4e19e041e" alt="vishal.balakrishnan07" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_balakrishnan" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611853469~hmac=3e69edaf98a58a788b4bb94c4cc94243" alt="vishal_balakrishnan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalbalakrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishalbalakrishnan" height="30" width="40" /></a>
