@@ -20,7 +20,7 @@
 <a href="https://fb.com/vishal.balakrishnan07" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1611679741~hmac=e2b07b09d56f25e1fe97e4b4e19e041e" alt="vishal.balakrishnan07" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_balakrishnan" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611853469~hmac=3e69edaf98a58a788b4bb94c4cc94243" alt="vishal_balakrishnan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalbalakrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishalbalakrishnan" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/vishal_bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishal_bala" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/vishal_bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishal_bala" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
