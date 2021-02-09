@@ -9,8 +9,6 @@
 
 ### Spotify Playing 🎧
 
-<!-- [<img src="https://spotify-now-playing.vishalbalakrishnan.vercel.app/api/spotify" width="350" />](https://open.spotify.com/) -->
-
 [![Spotify](https://spotify-now-playing.vishalbalakrishnan.vercel.app/api/spotify)](https://open.spotify.com/)
 
 <h4 align="left">Connect with me:</h4>
