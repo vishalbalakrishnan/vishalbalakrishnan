@@ -8,7 +8,6 @@
 
 
 ### Spotify Playing 🎧
-
 [![Spotify](https://spotify-now-playing.vishalbalakrishnan.vercel.app/api/spotify)](https://open.spotify.com/)
 
 <h4 align="left">Connect with me:</h4>
