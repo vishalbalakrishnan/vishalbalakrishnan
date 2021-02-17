@@ -17,7 +17,7 @@
 <a href="https://fb.com/vishal.balakrishnan07" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/124/124010.svg?token=exp=1613410586~hmac=ff583e995f365970ed1273d8c4556c33" alt="vishal.balakrishnan07" height="30" width="40" /></a>
 <a href="https://instagram.com/vishal_balakrishnan" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613496405~hmac=103d38d12d039c7de1ef0c678ab29102" alt="vishal_balakrishnan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishalbalakrishnan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="vishalbalakrishnan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal_bala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishal_bala" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishal_bala" target="blank"><img align="center" src="https://simpleicons.org/icons/hackerrank.svg" alt="vishal_bala" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
