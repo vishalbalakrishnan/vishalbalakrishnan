@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bala.
+### Hi there 👋, I'm Bala!
 #### A passionate Software Engineer from India - works at [Yellow messenger](https://yellowmessenger.com)
 
 - 🔭 I’m currently working on _JavaScript_
