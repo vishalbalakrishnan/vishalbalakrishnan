@@ -34,7 +34,7 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbalakrishnan&" alt="vishalbalakrishnan" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalbalakrishnan&" alt="vishalbalakrishnan" /></p> -->
 <br />
 
 <details>
