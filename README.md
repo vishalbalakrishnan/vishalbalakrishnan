@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Bala!
-#### A passionate Software Engineer from India - works at [Yellow messenger](https://yellowmessenger.com)
+#### A passionate Software Engineer trying to leverage technical expertise and problem-solving skills to contribute to product strategy, development, and customer success.- Currently working at [Gallabox](https://gallabox.com)
 
-- 🔭 I’m currently working on _JavaScript_
-- 🌱 I’m currently learning _Node JS, React JS_
-- 🤔 I’m looking for help with _anything related to JS_
+- 🔭 I’m currently working on _TypeScript_
+- 🌱 I’m currently learning _Product Development and Product Management_
+- 🤔 I’m looking for help with _anything related to Product Management_
 - ⚡ Fun fact: _Camera Shy, I love playing video games and watching football_
 
 
